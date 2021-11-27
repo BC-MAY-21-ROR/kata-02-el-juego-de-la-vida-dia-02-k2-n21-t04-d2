@@ -8,3 +8,4 @@ print "Ancho: "
 
 matrix = LiveGame.new(@height, @width)
 matrix.generate_matrix
+matrix.generacion
